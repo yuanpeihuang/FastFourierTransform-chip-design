@@ -1,0 +1,10 @@
+input1: cos(4*t)
+input2: 10*sin(4*t)
+input3: 5*sin(4*t)
+input4: sin(4*t)
+input5: rectangularPulse(8,23,t)
+input6: triangularPulse(8,23,t)
+input7: heaviside(t-16)
+input8: 0.5*t
+input9: sin(2*t)+sin(4*t)+sin(6*t)
+input10: 5*cos(t)+sin(5*t)
